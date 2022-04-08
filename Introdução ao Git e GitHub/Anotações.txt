@@ -1,3 +1,19 @@
-Link para download do Git: https://git-scm.com/downloads
+Link para download do Git:https://git-scm.com/downloads
+
+O Git é um sistema de controle de Versão mais utilizado no mundo de desenvolvimento de software,
+
+é um projeto de codigo aberto desenvolvido pelo Linus Torvalds criador do Kernel do Linux.
+Vantagens: porque usar Git?
+Você já deve ter percebido algumas vantagens em usar Git até aqui, mas vamos falar mais sobre elas:
+
+Desempenho
+O Git pode ser considerado um dos melhores softwares de controle de versão quanto a performance. Todas as operações são pensadas para trazer praticidade e desempenho. Como ele também é distribuído, isso traz ainda mais agilidade para o desenvolvimento, já que você consegue fazer alterações no seu projeto sem uma conexão à internet.
+
+Flexibilidade
+Uma das grandes vantagens do Git é você conseguir adaptar formatos de trabalho não lineares e ainda conseguir rastrear cada uma dessas ramificações. Independente se o seu projeto é grande ou pequeno, você consegue adaptá-lo para o seu fluxo.
+
+Segurança
+Uma das prioridades é a integridade do código fonte do seu projeto. Todas as informações, conteúdos de código, versões, commits, tudo é protegido com SHA1, que é um algoritmo seguro de hash de criptografia. Isso proporciona mais segurança contra alterações acidentais ou maliciosas e também permite que o histórico de alterações seja totalmente rastreável.
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
